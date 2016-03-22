@@ -1,0 +1,101 @@
+{
+
+"name": "GG",
+"children": [
+   {
+ "name": "Company Background",
+ "children": [
+  {
+   "name": "History",
+   "children": [
+
+      {"name": "History Of Minatures",
+        "children":[
+             {"name": "Mini Parks",
+                "children":[
+                  {"name": "Mini Israel",  "size": 3534},
+                  {"name": "Madurodam",  "size": 4534},
+                  {"name": "Wunderland",  "size": 5534}
+                ]},
+            
+                {"name": "GG History",
+                    "children":[
+                     {"name": "Gulliver's Travels",
+                "children":[
+                  {"name": "Literary Impact",  "size": 3534},
+                  {"name": "Cultural Impact",  "size": 4534},
+                  {"name": "Inspirations",  "size": 5534}
+                ]},
+            
+                {"name": "Crowdsourcing",
+                    "children": [
+                        {"name": "Kickstarter", "size":3000}
+                    ]}
+                    ]} ] } 
+        
+         ] }
+  ] } ,
+    
+   {
+ "name": "Development",
+ "children": [
+  {"name": "Engineers",
+        "children":[
+              {"name": "Building Plans",
+                "children":[
+                  {"name": "Airport",  "size": 3534},
+                  {"name": "Trains",  "size": 4534},
+                  {"name": "Boats",  "size": 5534}
+                ]},
+            
+                {"name": "Artistic Design",
+                    "children": [
+                        {"name":"Sketches", "size":3000},
+                        {"name":"Model Design", "size":4000}
+                    ]}
+            ] } ,
+ 
+  {
+   "name": "Social",
+   "children": [
+
+     {"name": "Interaction",
+                "children":[
+                  {"name": "Visitors",  "size": 3534},
+                  {"name": "Staff",  "size": 4534},
+                  {"name": "Schools",  "size": 5534}
+                ]}
+                 
+     
+        
+         ] }] },
+    
+   
+   {
+ "name": "Human Resourcces",
+ "children": [
+  {
+        "children":[
+            
+                  {"name": "Careers",
+                "children":[
+                  {"name": "Job Postings",  "size": 3534},
+                  {"name": "Interviews",  "size": 4534}
+                ]},
+            
+                {"name": "Benefits",
+                    "children": [
+                        {"name": "Health", "size":3000},
+                        {"name": "Retirement", "size":3000},
+                        {"name": "Vacation", "size":3000}
+                    ]}
+             ] } 
+     
+     
+        
+         ] }
+ 
+  
+        
+        
+     ]  }
